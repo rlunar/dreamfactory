@@ -35,7 +35,7 @@
         "dreamfactory/df-azure": "dev-laravel-upgrade",
         "dreamfactory/df-cache": "dev-laravel-upgrade",
         "dreamfactory/df-cassandra": "dev-laravel-upgrade",
-        "dreamfactory/df-core": "dev-laravel-upgrade",
+        "dreamfactory/df-core": "dev-laravel-upgrade#0a4fc499f4ed67b7018a406869b7087b25aa83bf",
         "dreamfactory/df-couchbase": "dev-laravel-upgrade",
         "dreamfactory/df-couchdb": "dev-laravel-upgrade",
         "dreamfactory/df-email": "dev-laravel-upgrade",
